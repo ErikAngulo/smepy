@@ -1,0 +1,5 @@
+Version 0.1.0
+2021-07-11
+- Creación de objeto Dataset
+- Lectura y escritura de ficheros (csv a Dataset y viceversa)
+- Cambiar nombre de las columnas de un Dataset
