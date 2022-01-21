@@ -1,3 +1,10 @@
+Version 0.3.0
+2021-07-15
+- Discretización por igual anchura
+- Discretización por igual frecuencia
+- Discretización manual con puntos de corte
+
+
 Version 0.2.0
 2021-07-13
 - Normalización del Dataset
