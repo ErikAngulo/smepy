@@ -1,3 +1,12 @@
+Version 0.4.0
+2021-07-18
+- Varianzas del Dataset
+- Boxplot del dataset
+- Entropía del Dataset
+- Información mutua del Dataset
+- Correlaciones del Dataset
+
+
 Version 0.3.0
 2021-07-15
 - Discretización por igual anchura
