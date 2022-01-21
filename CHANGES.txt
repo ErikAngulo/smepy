@@ -1,3 +1,10 @@
+Version 0.2.0
+2021-07-13
+- Normalización del Dataset
+- Estandarización del Dataset
+- Filtrado del Dataset
+
+
 Version 0.1.0
 2021-07-11
 - Creación de objeto Dataset
